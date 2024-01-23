@@ -36,3 +36,4 @@
 
 ## Autres
 Les fichiers utilisés dans les transformations sont dans le dossier ETL join au dépôt. Le sujet de l'activité aussi.
+Fichier de telechargement accessible sur cette plate-forme: https://privatefilesbucket-community-edition.s3.us-west-2.amazonaws.com/9.4.0.0-343/ce/client-tools/
